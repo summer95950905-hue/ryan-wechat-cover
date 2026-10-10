@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ryan 公众号封面"
+  short_description: "沿用 Ryan 的黑白摄影拼贴封面，生成横版标题图和完整的转发方图"
+  default_prompt: "用 $ryan-wechat-cover 参考最近的封面成品，为这篇文章设计横版标题图和转发方图。"
